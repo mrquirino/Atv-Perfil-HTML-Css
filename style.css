@@ -1,5 +1,6 @@
 *{
     background-color: #083953;
+    font-family: "Georgia", sans-serif;
 }
 
 body {
@@ -11,6 +12,7 @@ div {
     width: 500px;
     height: auto;
     margin: 5px auto;
+    border-radius: 25px;
     background-color: rgb(125, 128, 107);
     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3) ;
     padding: 20px;
