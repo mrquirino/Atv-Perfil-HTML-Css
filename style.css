@@ -3,10 +3,17 @@
 }
 
 body {
+text-align: center;
+}
 
+p {
+    font-size: 25px;
+    border-radius: 25%;
+    border: #de3535;
 }
 
 img {
     width: 10%;
     height: 10%;
+    
 }
