@@ -1,16 +1,17 @@
 *{
-    background-color: #4621b5;
+    background-color: #de991a;
 }
 
 body {
 text-align: center;
+box-shadow: #b6b5ba;
 }
 
 p {
     font-size: 25px;
     border-radius: 25%;
-    border: #de3535;
 }
+
 
 img {
     width: 10%;
